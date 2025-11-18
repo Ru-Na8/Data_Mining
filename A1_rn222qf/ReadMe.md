@@ -1,0 +1,3 @@
+Run the code:
+- Go to the **menu** and select **Kernel → Restart & Run All** to restart and run all code from the beginning.
+- Or, to run each cell individually, press **Shift + Enter** after selecting a cell.
